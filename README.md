@@ -2,7 +2,7 @@
 
 <h1 align="center">Ultraviolet But It Works On Glitch</h1>
 
-The deployable all-in-one bundle for Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+Ultraviolet but it is able to be deployed on glitch if you get the 503 error
 
 ## Deployment
 </a>[![Deploy to Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/useful-shore-harmonica)
