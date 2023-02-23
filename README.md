@@ -9,4 +9,4 @@ Ultraviolet but it is able to be deployed on glitch if you get the 503 error
 
 Vist it my site <a>https://sites.google.com/view/poshsdump/home</a>
 
-Dm on discord at p0sh#5696
+Dm on discord at p0sh#5696 if you have any issues. ENJOY!
